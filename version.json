@@ -1,6 +1,23 @@
 {
-    "latestVersion": "0.0.0",
+    "latestVersion": "0.1.0",
     "changes": [
+        {
+            "version": "0.1.0",
+            "date": "2022-05-27",
+            "change": [
+                    "Complete refactor and partial rewrite",
+                    "Fix: GComment broken due to a lot of page changes",
+                    "Comments are now written in an editor (WYSIWYG or Markdown)",
+                    "GCComment is now working on the NEW map",
+                    "Updated the real old libs",
+                    "Show comment's waypoints on hide page",
+                    "Fix: map on cache page is broken",
+                    "A lot of small stuff",
+                    "Not longer supported (atm): dropbox (will be replaced by GDrive)",
+                    "Not longer supported (atm): patch gpx and patch send to device"
+                ]
+        }
+        ,
         {
             "version": "0.0.0",
             "date": "2022-05-25",
