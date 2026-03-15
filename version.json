@@ -1,6 +1,13 @@
 {
-    "latestVersion": "0.1.0",
+    "latestVersion": "0.1.1",    
     "changes": [
+        {"version": "0.1.0",
+            "date": "2026-03-15",
+            "change": [
+                    "fix: not showing on new profile page anymore",
+                    "mod: updated dependencies"
+                ]
+        }
         {
             "version": "0.1.0",
             "date": "2022-05-27",
